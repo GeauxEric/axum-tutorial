@@ -1,7 +1,13 @@
 [package]
-name = "http-server"
+name = "http-server-axum-tutorial"
 version = "0.1.0"
+authors = ["yunding.eric@gmail.com"]
 edition = "2021"
+description = "Educational project on serve static content from files, like Python's http.server"
+license = "MIT"
+keywords = ["http", "server", "static"]
+repository = "https://github.com/GeauxEric/axum-tutorial"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
